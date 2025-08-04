@@ -1,0 +1,11 @@
+gradio
+tushare
+zhipuai
+ta-lib
+reportlab
+jsonlines
+pillow
+matplotlib
+pandas
+numpy
+zai

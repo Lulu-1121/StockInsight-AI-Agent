@@ -1,0 +1,5 @@
+# 智谱 API Key（请在此填写您的智谱 AI 接口密钥）
+ZHIPU_API_KEY = "a8369452c8934109a0ba948aa1d7636d.Ys34xjvNhDmhEvkj"
+
+# Tushare API Token（请在此填写您的 Tushare API 密钥）
+TUSHARE_TOKEN = "4b501b44a0b954d43598759598792618c4d2a93162b1243e97165f61"
